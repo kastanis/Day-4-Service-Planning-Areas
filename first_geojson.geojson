@@ -1,5 +1,11 @@
 {
     "type": "Feature",
+    "style":{
+      //all SVG styles allowed
+      "fill":"red",
+      "stroke-width":"3",
+      "fill-opacity":0.6
+  },
     "properties": {
         "kind": "Service Planning Area (2002)",
         "external_id": "4",
