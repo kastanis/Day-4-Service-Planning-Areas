@@ -1,7 +1,6 @@
 {
     "type": "Feature",
-    "style":{
-      //all SVG styles allowed
+    "style": {
       "fill":"red",
       "fill-opacity":0.6
   },
